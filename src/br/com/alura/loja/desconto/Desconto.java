@@ -20,6 +20,5 @@ public  abstract class Desconto {
     }
 
     protected abstract BigDecimal efetuarCalculo(Orcamento orcamento);
-
     protected abstract boolean deveAplicar(Orcamento orcamento);
 }
