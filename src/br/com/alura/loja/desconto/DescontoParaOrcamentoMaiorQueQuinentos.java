@@ -20,3 +20,5 @@ public class DescontoParaOrcamentoMaiorQueQuinentos extends Desconto {
         return orcamento.getValor().compareTo(new BigDecimal("500")) > 0;
     }
 }
+
+
