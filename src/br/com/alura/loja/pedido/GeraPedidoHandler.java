@@ -2,8 +2,6 @@ package br.com.alura.loja.pedido;
 
 import br.com.alura.loja.orcamento.Orcamento;
 import br.com.alura.loja.pedido.acao.AcaoAposGerarPedido;
-import br.com.alura.loja.pedido.acao.EnviarEmailPedido;
-import br.com.alura.loja.pedido.acao.SalvarPedidoBD;
 
 import java.time.LocalDateTime;
 import java.util.List;
